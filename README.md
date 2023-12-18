@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirezasaberi20
-- 👀 I’m interested in Machine learning and deep learning and IoT and their applications in daily life. In addition, I'm interested in modeling finacial market too.
+- 👀 I’m interested in Machine learning, deep learning, and IoT and their applications in daily life. In addition, I'm interested in modeling the financial market too.
 - 🌱 I’m currently learning Machine learning and deep learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
