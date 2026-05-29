@@ -1,25 +1,74 @@
-# Welcome to My GitHub! 👋🚀
+# Welcome to My GitHub 👋
 
-## Overview
+AI Engineer & Data Scientist with an M.Sc. in Data Science, focused on building production-ready AI systems and end-to-end machine learning workflows.  
+I work across the full AI lifecycle — from data cleaning and model development to deployment, automation, and scalable AI applications.
 
-Hi there! I'm a data science student with a passion for **Artificial Intelligence 🤖**, **Machine Learning 📊**, and **Python Programming 🐍**. My repositories reflect my journey through the world of data science, where I explore AI concepts, experiment with cutting-edge algorithms, and work on real-world projects.
+---
 
-### What You'll Find Here:
+## 🚀 What I Work On
 
-- **AI Projects**: From neural networks to reinforcement learning, check out my AI model implementations using libraries like **TensorFlow** and **PyTorch**. 🤖🔍
-- **Machine Learning**: Dive into my projects on supervised, unsupervised, and deep learning techniques, including model training, evaluation, and optimization. 📈🤖
-- **Python Programming**: Clean, efficient, and modular Python code is at the core of my work. 🐍💻 Explore my scripts and libraries for data manipulation and algorithm development.
-- **Data Science Workflows**: Step-by-step projects showcasing the full data science pipeline—from **data cleaning 🧹** and **feature engineering 🛠️** to **model building 🤖** and **deployment 🚀**.
+### 🤖 LLM Applications & AI Agents
+Building intelligent AI systems using tools and frameworks such as LangChain, LangGraph, OpenAI APIs, Claude, and Cursor.
 
-### Why AI and Machine Learning? 
+### 📊 Machine Learning & Data Science
+Developing ML pipelines for data preprocessing, training, evaluation, fine-tuning, and inference.
 
-AI and machine learning are at the frontier of innovation! 🚀 These fields offer endless possibilities, from automating tasks to solving complex problems. I enjoy experimenting with different models, improving accuracy, and exploring the math behind the algorithms. 📚✨
+### ⚙️ AI Engineering & Deployment
+Creating deployable AI services with APIs, containerization, CI/CD pipelines, and production workflows.
 
-### My Favorite Tools & Technologies:
+### 🔄 Automation & Agentic Workflows
+Using modern AI-assisted engineering tools to accelerate development, experimentation, and software delivery.
 
-- **Languages**: Python 🐍, R 📊
-- **Frameworks/Libraries**: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas 🧠📚
-- **Data Visualization**: Matplotlib 📊, Seaborn 🌊, Plotly 📈
-- **Version Control**: Git/GitHub 🛠️
+---
 
-Feel free to explore my projects, and if you have any questions or suggestions, don’t hesitate to reach out! 😄🙌
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+- R
+
+### AI / ML
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face
+
+### LLM & Agent Frameworks
+- LangChain
+- LangGraph
+- OpenAI API
+- Claude API
+
+### Data Tools
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+
+### Deployment & MLOps
+- Docker
+- FastAPI
+- GitHub Actions
+- CI/CD
+
+### Developer Tools
+- Git
+- GitHub
+- Cursor
+- VS Code
+
+---
+
+## 🎯 Interests
+
+- AI Engineering
+- LLM Applications
+- Autonomous AI Agents
+- Applied Machine Learning
+- MLOps & Scalable AI Systems
+
+---
+
+Thanks for visiting my GitHub!  
+Feel free to explore my repositories and connect if you'd like to collaborate on AI or data-driven projects.
